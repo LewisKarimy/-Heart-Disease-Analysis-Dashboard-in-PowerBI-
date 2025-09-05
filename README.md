@@ -1,4 +1,4 @@
-# -Heart-Disease-Analysis-Dashboard-in-PowerBI-
+
 
 # ❤️ Heart Disease Analysis Dashboard – Power BI  
 
@@ -32,8 +32,6 @@ This project demonstrates how to build a **step-by-step dynamic dashboard in Pow
 - Clean and interactive layout  
 - KPIs, trend analysis, and demographic filters  
 - Healthcare-focused insights to support decision-making  
-
-*(Insert screenshot/GIF of your dashboard here)*  
 
 ---
 
